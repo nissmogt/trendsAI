@@ -1,0 +1,380 @@
+Company,Num_layoffs,Pct_impacted,Reported_date,Industry,HQ,Source,Company_status,Notes
+Assure,Unclear,100%,11/23/22,Fintech,Salt Lake City,Axios,Private,
+GloriFi,Unclear,100%,11/21/22,Fintech,Dallas,WSJ,Private,
+Nuro,310,Unclear,11/18/22,Transportation,Mountain View,The Robot Report,Private,The company laid off ten people back in July.
+Carvana,"4,000",Unclear,11/18/22,"Automotive, Ecommerce",Tempe,WSJ,Public,
+Storyblocks,Unclear,Unclear,11/18/22,"Media, video editing","Washington, DC",Storyblocks CEO,Private,
+Metaplex,Unclear,Unclear,11/18/22,Cryptocurrency,Chicago,AMBCrypto,Private,
+Chili Piper,58,Unclear,11/17/22,"enterprise software, productivity",New York,Chili Piper,Private,
+Roku,200,7%,11/17/22,"media, streaming","Los Gatos, CA",Variety,Public,
+Morning Brew,Unclear,14%,11/17/22,"Media, news",New York,Max Tani,Private,
+Kandji,Unclear,Unclear,11/17/22,"IT, software",San Diego,LinkedIn reports,Private,
+Capitolis,37,25%,11/17/22,Fintech,New York,Calcalistech,Private,
+Homepoint,113,Unclear,11/17/22,Proptech,"Greenville, SC",Phoenix Business Journal,Private,
+Orchard,180,Unclear,11/17/22,Proptech,New York,Inman,Private,
+Qualtrics,Unclear,Unclear,11/17/22,"SaaS, enterprise software","Provo, UT",LinkedIn reports,,
+Lokalise,76,23%,11/16/22,"Saas, APIs","Dover, DE",Lokalise founders,Private,
+Salsify,90,11%,11/16/22,"Cloud computing, e-commerce",Boston,Boston Business Journal,Private,
+Similarweb,120,10%,11/16/22,"AI, analytics",New York,Globes,Public,
+Yotpo,70,9%,11/16/22,"marketing, media",New York,Calcalistech,Private,
+Cisco,4100,5%,11/16/22,"enterprise software, SaaS","San Jose, CA",Silicon Valley Business Journal,Public,
+Kite,Unclear,100%,11/16/22,"AI, coding",San Francisco,Kite,Private,
+Homeward,Unclear,25%,11/16/22,Proptech,"Austin, TX",Homeward,Private,
+The Zebra,90,Unclear,11/15/22,"Insurance, fintech","Austin, TX",Coverager,Private,The company previously laid off 40 people in May.
+Protocol Media,60,100%,11/15/22,"News, media",San Francisco,CNN,Private,
+OfferUp,Unclear,19%,11/15/22,"E-commerce, marketplace","Bellevue, WA",GeekWire,Private,
+OwnBackup,170,17%,11/15/22,"SaaS, enterprise software","Englewood Cliffs, NJ",Calcalistech,Private,
+Asana,180,9%,11/15/22,"collaboration, enterprise software",San Francisco,Asana COO,Public,
+UiPath,451,Unclear,11/15/22,Artificial Intelligence,New York,MarketWatch,Public,"The company laid of 210 employees, or about 5% of the company, in June. In November the company laid off an additional 241 people."
+Sema4,750,Unclear,11/14/22,"AI, health care","Stamford, CT",MarketWatch,Public,"The company previously laid off 250 employees, or 13% of its staff, back in August."
+Intercom,124,13%,11/14/22,"customer service, automation",San Franicsco,Silicon Republic,Private,
+Amazon,"10,000",3%,11/14/22,"E-commerce, SaaS",Seattle,New York Times,Public,
+Veev,100,30%,11/11/22,PropTech,San Mateo,Calcalistech,Private,
+Coinbase,"1,160",Unclear,11/10/22,Crypto,San Francisco,The Information,Public,"The company previously laid off 1,100 people in June. In November, it laid off an additional 60 employees."
+Reforge,Unclear,Unclear,11/10/22,HR Tech,San Francisco,Reforge CEO,Private,
+Wistia,40,Unclear,11/10/22,"Video production, marketing","Cambridge, MA",Wistia CEO,Private,
+Wavely,Unclear,100%,11/10/22,"hiring, HR","Palo Alto, CA",Wavely,Private,
+Ocavu,20,48%,11/10/22,Cryptocurrency,"Lehi, UT",Salt Lake Tribune,Private,
+Juul,400,30%,11/10/22,"consumer goods, vape pens",San Francisco,CNBC,Public,
+SoundHound,45,10%,11/10/22,Conversational AI,"Santa Clara, CA",TechCrunch,Public,
+RingCentral,Unclear,Unclear,11/9/22,"SaaS, meeting software","Belmont, CA",Barron's,Public,The company previously laid of 50 people in August.
+AvantStay,224,Unclear,11/9/22,Travel,Los Angeles,Skift,Private,The company previously laid off 80 workers in June.
+Coursera,Unclear,Unclear,11/9/22,Edtech,"Mountain View, CA",Coursera CEO,Public,
+Amobee,Unclear,Unclear,11/9/22,"Adtech, digital marketing","Redwood City, CA",Amobee,Private,
+Root Insurance,467,40%,11/9/22,InsurTech,Columbus,Columbus Dispatch,Public,"The company previously laid off 330 people, or 20% of the staff at the time, in January."
+Meta,11000,13%,11/9/22,Social media,"Menlo Park, CA",CNBC,Public,
+Redfin,1332,9%,11/9/22,PropTech,Seattle,Bloomberg,Public,"The company laid off 470 people, or 6% of its staff at the time, in June. In November, it laid off another 862, or 13% of it's staff."
+Kabam,35,7%,11/9/22,video games,San Francisco,TechCrunch,Private,
+Astra,Unclear,16%,11/8/22,"aerospace, space ","Alameda, CA",Astra CEO,Public,
+SADA,Unclear,11%,11/8/22,"Cloud computing, IT",Los Angeles,SADA CEO,Private,
+Salesforce,1090,Unclear,11/7/22,"enterprise tech, analytics",San Francisco,CNBC,Public,
+Domino Data Lab,Unclear,Unclear,11/7/22,"AI, big data",San Francisco,LinkedIn reports,Private,
+Code42,Unclear,15%,11/7/22,"Cybersecurity, enterprise software",Minneapolis,Star Tribune,Private,
+Zendesk,350,5%,11/7/22,"Enterprise software, customer service",San Francisco,SFGate,Public,
+Varonis Systems,110,5%,11/6/22,Cybersecurity,New York,Calcalistech,Private,"Half of its layoffs happened at its R&D center in Israel, per reports"
+Twitter,3700,Unclear,11/4/22,Social Media,San Francisco,Reuters,Public,"Twitter cut around 3,700 staff members in November"
+Exodus,59,22%,11/4/22,"Cryptocurrency, blockchain","Nebraska City, NE",Exodus CEO,Private,
+Benitago Group,Unclear,14%,11/4/22,"e-commerce, retail",New York,TechCrunch,Private,
+Mythical Games,Unclear,10%,11/4/22,"Video games, blockchain",Los Angeles,Bloomberg,Private,
+Stripe,1050,Unclear,11/3/22,Fintech,San Francisco,Bloomberg,Private,The company previously laid of 50 staffers
+Lyft,760,Unclear,11/3/22,Transportation,San Francisco,WSJ,Public,"The company laid of 60 people (2% of staff) in July, and 700 people (13%) in November."
+Shippo,Unclear,20%,11/3/22,Logistics,San Francisco,Shippo CEO,Private,
+Faire,84,7%,11/3/22,"E-commerce, retail",San Francisco,The Information,Private,
+Affirm,Unclear,1%,11/3/22,"Fintech, loans",San Francisco,The Information,Public,
+Blueboard,Unclear,Unclear,11/3/22,Enterprise Software,San Francisco,LinkedIn reports,,
+Gem,100,Unclear,11/2/22,Recruiting,San Francisco,Gem CEO,Private,
+Iron Ox,50,50%,11/2/22,"AgTech, food and beverage",San Francisco,TechCrunch,Private,
+Opendoor,550,18%,11/2/22,Proptech,San Francisco,Opendoor CEO,Public,
+Digital Currency Group,10,13%,11/2/22,Cryptocurrency,"Stamford, CT",Coindesk,Private,
+Chime,156,12%,11/2/22,Fintech,San Francisco,The Information,Private,
+Chargebee,142,10%,11/2/22,"Fintech, SaaS",San Francisco,TechCrunch,Private,
+Booking.com,226,Unclear,11/1/22,"Travel, hotels","Grand Rapids, MI",Crain's Detroit Business,Private,
+Brightline,Unclear,20%,11/1/22,Health care,"Palo Alto, CA",Behavioral Health Business,Private,
+Upstart,60,7%,11/1/22,Fintech,"San Carlos, CA",TechCrunch,Private,
+Notarize,170,Unclear,10/31/22,Legal Tech,Boston,Boston Business Journal,Private,"The company laid of 60 people, or 25% of the company, back in June. In October, it laid off an additional 60 people."
+EquityZen,30,27%,10/31/22,Fintech,New York,Axios,Private,
+Equitybee,25,20%,10/31/22,Fintech,San Francisco,Calcalistech,Private,
+Fifth Season,Unclear,100%,10/28/22,Vertical farming,Pittsburgh,Pittsburgh Business Journal,Private,
+Advata,32,21%,10/28/22,"health care, analytics ","Bellevue, WA",GeekWire,Private,
+Spreetail,Unclear,Unclear,10/27/22,"retail, e-commerce","Lincoln, NE",Spreetail CEO,Private,
+Recharge,84,17%,10/27/22,Fintech,Los Angeles,Recharge CEO,Private,
+Argo AI,Unclear,100%,10/26/22,Transportation,Pittsburgh,TechCrunch,Private,
+GoFundMe,94,12%,10/26/22,Crowdfunding,"Redwood City, CA",GoFundMe,Private,
+Zillow,300,5%,10/26/22,PropTech,Seattle,TechCrunch,Public,
+Callisto Media,Unclear,Unclear,10/25/22,Analytics,"Emeryville, California",Publishers Weekly,Private,The company previously cut staff by 35% in July.
+TigerGraph,Unclear,Unclear,10/25/22,Analytics,"Redwood City, CA",Sources within the company,Private,
+Fundbox,150,42%,10/25/22,Fintech,San Francisco,Calcalistech,Private,
+Embroker,30,12%,10/25/22,InsurTech,San Francisco,The Insurer,Private,
+Snyk,220,Unclear,10/24/22,Cybersecurity,Boston,Globes,Private,"The company previously laid of 30 people, or 5% of the company, in June"
+Cerebral,Unclear,Unclear,10/24/22,Health Care,San Francisco,Wall Street Journal,Private,The company previously laid off employees in May.
+Gopuff,"2,200",Unclear,10/21/22,E-commerce,Philadelphia,"Bloomberg, The Information",Private,"First round of layoffs was in March, second round was in July, and the third round was in October."
+Volta Charging,Unclear,54%,10/21/22,"Automotive, electric vehicles",San Francisco,Volta ,Public,
+Khoros,120,10%,10/21/22,"SaaS, enterprise software",Austin,Austin Business News,Private,
+F5,100,1%,10/21/22,"SaaS, enterprise software",Seattle,GeekWire,Public,
+Loom,57,Unclear,10/20/22,Enterprise Communication,San Francisco,SFGate,Private,Loom laid off 34 people (14% of the company) in June and 23 more people in October.
+Starry,Unclear,50%,10/20/22,"WiFi, hardware",Boston,Starry,Public,
+Zeus Living,64,46%,10/20/22,"Home decor, PropTech",San Francisco,San Francisco Business Journal,Private,
+Clever Real Estate,Unclear,Unclear,10/19/22,PropTech,St. Louis,St. Louis Business Journal,Private,
+AtoB,32,30%,10/19/22,FinTech,San Francisco,SFGate,Private,
+Noodle,Unclear,Unclear,10/18/22,EdTech,New York,LinkedIn,Private,
+Leafly,56,21%,10/18/22,Cannabis,Seattle,Leafly,Public,
+Flipboard,24,21%,10/16/22,News,"Palo Alto, CA",Axios,Private,
+Beyond Meat,240,Unclear,10/14/22,Foodtech,"Manhattan Beach, CA",CNBC,Public,Beyond Meat previously laid off 40 employees in August.
+Clear Capital,378,27%,10/14/22,PropTech,"Truckee, CA",TechCrunch,Private,
+Momentive,Unclear,11%,10/14/22,information technology,"Waterford, MI",TechCrunch,Private,
+6sense,150,10%,10/12/22,"Artificial Intelligence, Machine Learning",San Francisco ,MoneyControl,Private,Layoffs largely affected teams in India
+Noom,"1,095",Unclear,10/11/22,Fitness/Digital Health,New York,TechCrunch,Private,"The company has laid off more than 1,000 people in the span of a few months."
+Pacaso,100,30%,10/11/22,PropTech,San Francisco,Inman,Private,
+Udacity,55,13%,10/11/22,"edtech, artificial intelligence","Mountain View, CA",Udacity,Private,
+Brex,136,11%,10/11/22,Fintech,San Francisco,TechCrunch,Private,
+Redesign Health,67,20%,10/10/22,health care,New York,Fast Company,Private,
+Rev.com,85,Unclear,10/7/22,"Speech recognition, artificial intelligence",San Francisco,Austin American-Statesman,Private,
+Peloton,"4,084",Unclear,10/6/22,Fitness,New York,CNBC,Public,"Peloton previously laid off 3,584 in February"
+Spotify,Unclear,Unclear,10/6/22,Music,"Stockholm, Sweden",TechCrunch,Public,
+Built In,Unclear,Unclear,10/5/22,Networking,Chicago,LinkedIn,Private,
+Homie,162,Unclear,10/4/22,PropTech,"South Jordan, Utah","TechCrunch, Crunchbase News reporting",Private,"Around 100 people were laid off in February. Another 22 people were laid off in June, the company confirmed to Crunchbase News."
+TruePill,Unclear,Unclear,9/30/22,"pharmaceutical, health care","Hayward, CA",TechCrunch,Private,"Truepill previously laid off 175 employees in August, which was roughly 33% of the company"
+Spin,78,10%,9/30/22,Transportation,San Francisco,TechCrunch,Private,
+DocuSign,Unclear,9%,9/28/22,e-signature,San Francisco,CNBC,Public,
+Divvy Homes,40,12%,9/27/22,PropTech,San Franicsco,The Information,Private,
+Instacart,Unclear,Unclear,9/24/22,"delivery, e-commerce",San Francisco,The Information,Private,
+Pesto,Unclear,100%,9/23/22,"IT, future of work",San Francisco,Pesto announcement,Private,The layoffs were as a result of the company closing
+Foxtrot,26,4%,9/23/22,"food and beverage, e-commerce",Chicago,Chicago Business,Private,
+Klarna,Unclear,Unclear,9/22/22,Fintech,Stockholm,Sifted,Private,"It's unclear how much of Klarna's U.S.-based workforce was affected by the global layoffs in May. The company reportedly laid off around 650 employees total, representing about 10% of its total workforce. Klarna laid off an additional 100 people in September."
+Kitty Hawk,Unclear,100%,9/21/22,aerospace,Mountain View,CNBC,Private,The company announced it would shutter
+Compass,Unclear,Unclear,9/20/22,Proptech,New York,Bloomberg,Public,
+Curative,109,Unclear,9/20/22,health diagnostics,Los Angeles,Digital Health,Private,
+VideoAmp,Unclear,2%,9/19/22,Advertising platforms,Los Angeles,Company memo,Private,
+DayTwo,Unclear,Unclear,9/15/22,"Health care, nutrition","Walnut Creek, CA",Calcalistech,Private,
+LivePerson,Unclear,Unclear,9/15/22,Customer service,New York,LinkedIn ,Public,
+WorkRamp,Unclear,Unclear,9/15/22,"Saas, enterprise software","San Carlos, CA",LinkedIn,Private,
+Netflix  ,480,Unclear,9/14/22,Media/entertainment,Los Gatos,Deadline,Public,"First round of cuts in May affected around 150 employees, second round affected about 300. The most recent funding round cut 30 people."
+Twilio,800,11%,9/14/22,Enterprise Software,San Francisco,TechCrunch,Public,
+Sundae,Unclear,Unclear,9/13/22,PropTech,San Francisco,Confirmed by CB News from sources,Private,
+Patreon,80,17%,9/13/22,Social media,San Francisco,The Information,Private,
+Taboola,Unclear,6%,9/13/22,Content marketing,New York,Calcalistech,Public,"The company laid off over 100 people, per Calcalist"
+Sama,Unclear,Unclear,9/12/22,"AI, enterprise software",San Francisco,Sama,Private,
+Rent the Runway,Unclear,24%,9/12/22,"e-commerce, retail",New York,Wall Street Journal,Public,
+Karbon,Unclear,23%,9/12/22,"Productivity, task management",San Francisco,"Stuart McLeod, CEO of Karbon",Private,
+DreamBox Learning,Unclear,Unclear,9/9/22,EdTech,Seattle,Geekwire,Private,
+CommonBond,Unclear,100%,9/9/22,"FinTech, loan repayments",New York,"David Klein, CEO of CommonBond",Private,
+Flowhub,Unclear,15%,9/9/22,Cannabis,Dever,Business Insider,Private,
+FullStory,Unclear,Unclear,9/8/22,"SaaS, data",Atlanta,"Scott Voigt, CEO of FullStory",Private,
+realtor.com,Unclear,Unclear,9/8/22,Proptech,"Santa Clara, CA",SFGate,Private,
+BigBear.ai,Unclear,7%,9/8/22,"data analytics, national defense","Columbia, MD",Baltimore Business Journal,Public,
+Medly Pharmacy,Unclear,50%,9/7/22,"Pharmacy, health care",New York,Crain's New York,Private,
+Brave Care,40,33%,9/6/22,"Pediatrics, telehealth",Portland,The Oregonian,Private,The Orgeonian reported roughly 40 people have been laid off
+Medium,Unclear,25%,9/6/22,Publishing,San Francisco,"Lauren Newton, Head of People at Medium",Private,
+Juniper Square,Unclear,14%,9/6/22,Proptech,San Francisco,The Real Deal,Private,
+Innovaccer,120,8%,9/1/22,"Cloud Infrastructure, health care",San Francisco,Inc42,Private,
+The Wing,Unclear,100%,8/31/22,Coworking,New York,The Information,Private,
+Snap,1280,20%,8/31/22,Social media,"Venice, CA",The Verge,Public,
+GoodRx,140,16%,8/31/22,"Health care, pharmaceuticals",Los Angeles,Seeking Alpha,Public,
+Apartment List,Unclear,10%,8/31/22,Proptech,San Francisco,CEO Matthew Woods,Private,
+Nate,30,Unclear,8/30/22,E-commerce,New York,The Information,Private,"Nate reportedly had two layoffs. In June, the company laid of 30 people, or 20% of the company at the time."
+Skillz,Unclear,Unclear,8/29/22,"Mobile Apps, Gaming",San Francisco,Seeking Alpha,Public,
+Fungible,Unclear,Unclear,8/29/22,cryptocurrency,"Santa Clara, CA",Blocks & Files,Private,
+Okta,24,Unclear,8/26/22,"Enterprise software, Management information systems",San Francisco,Unleash,Public,
+Argyle,20,7%,8/26/22,InsurTech,New York,TechCrunch,Private,
+FreshDirect,40,Unclear,8/25/22,"Food delivery, ecommerce","The Bronx, NY",Philadelphia Business Journal,Private,
+impact.com,Unclear,10%,8/25/22,Digital marketing,"Santa Barbara, CA",impact.com,Private,
+ShipBob,Unclear,7%,8/25/22,"Shipping, Logistics",Chicago,Business Insider ,Private,
+Pix,Unclear,Unclear,8/24/22,Foodtech,"Napa, CA",San Francisco Chronicle,Private,
+Reali,140,100%,8/24/22,PropTech,"San Mateo, CA",Calcalistech,Private,
+DataRobot,,26%,8/23/22,"AI, enterprise software",Boston,The Information,Private,
+Amperity,13,3%,8/20/22,"Saas, analytics",Seattle,Geekwire,Private,The startup laid off its recruting staff
+Wayfair,870,Unclear,8/19/22,"E-commerce, retail",Boston,Boston Globe,Public,
+Thirty Madison,Unclear,10%,8/18/22,"health care, wellness",Greater New York area,Fierce Healthcare,Private,"Axios reported in May the company laid off roughly 3% of its staff, which amounted to 24 people at the time"
+New Relic,110,5%,8/18/22,"productivity, enterprise software","Bay Area, CA",MarketWatch,Private,
+Tempo Automation,54,Unclear,8/17/22,automotive,San Francisco,San Francisco Business Times,Private,
+Malwarebytes,125,14%,8/17/22,"security, enterprise software",San Francisco,TechCrunch,Private,
+Edmodo,Unclear,100%,8/16/22,Edtech,"San Mateo, CA",EdSurge,Private,
+Woven,5,15%,8/16/22,"Artificial intelligence, recruiting",Indianapolis,AdAge,Private,
+Blend,Unclear,25%,8/15/22,"Fintech, proptech",San Francisco,HousingWire,Public,
+ThredUp,Unclear,15%,8/15/22,"E-commerce, fashion","Oakland, CA",Retail Dive,Public,
+Almanac,Unclear,30%,8/13/22,"Collaboration, productivity",San Francisco,LinkedIn,Private,
+Orbit,Unclear,Unclear,8/12/22,Productivity software,San Francisco,Orbit CEO Patrick Woods,Private,Orbit CEO Patrick Woods announced at least 14 people have been laid off
+Core Scientific ,Unclear,10%,8/12/22,"Blockchain, cryptocurrency ",Austin,Blockworks,Public,
+GoHealth,800,20%,8/11/22,"health care, health insurance",Chicago,Chicago Sun Times,Public,
+Homeward,120,20%,8/11/22,"Real Estate, PropTech",Austin,The Real Deal,Private,
+Calm,90,20%,8/11/22,"personal health, wellness",San Francisco,Wall Street Journal,Private,
+Nutanix,270,4%,8/10/22,"data center, enterprise software",San Jose,SFGate,Public,
+Sweetgreen,Unclear,5%,8/9/22,"food and beverage, restaurants","Washington, DC",CNBC,Public,
+Vroom,647,Unclear,8/8/22,"Auto, E-commerce",New York,Automotive News,Public,"In May, the company cut 270 jobs, or 14% of its workforce. Vroom announced in August in laid off an additional 337 people."
+Warby Parker,63,Unclear,8/8/22,"Ecommerce, Fashion",New York City,Insider,Public,
+DataRobot,Unclear,Unclear,8/8/22,Artificial Intelligence,Boston,Boston Globe,Private,"In May, the Information reported the company would lay off 70 people, or 7% of its staff. In August, The Boston Globe said the startup would cut more staff."
+Haus,Unclear,100%,8/8/22,food and beverage,"Healdsburg, CA",TechCrunch,Private,
+Groupon,500,15%,8/8/22,"ecommerce, retail",Chicago,TechCrunch,Public,TechCrunch reported the company laid off more than 500 employees
+Daily Harvest,Unclear,15%,8/8/22,"Food delivery, ecommerce",New York City,Fortune,Private,
+iRobot,140,10%,8/5/22,"artificial intelligence, robotics","Bedford, MA",Geekwire,Public,
+StubHub,Unclear,Unclear,8/4/22,"E-commerce, ticketing",San Francisco,StubHub on LinkedIn,Private,StubHub announced they would be letting go of the majority of their employees on a LinkedIn post
+On Deck,73,Unclear,8/4/22,"Networking, business development",San Francisco,TechCrunch,Private,
+Jam City,Unclear,17%,8/4/22,"Mobile Apps, Gaming",Culver City,VentureBeat,Private,Venture Beat reported around 150 to 200 people were laid off
+Healthcare.com,149,Unclear,8/3/22,Insurtech,"Miami, FL",Miami Inno,Private,
+Glossier,104,Unclear,8/2/22,Beauty,New York,Modern Retail,Private,Glossier laid off 80 people in January. In August a source told Modern Retail it laid off roughly two dozen more people
+Nylas,80,Unclear,8/2/22,"Software, Emails, API",San Francisco,Nylas,Private,
+Latch ,115,37%,8/2/22,PropTech,"New York, NY",Latch,Public,
+Robinhood,"1,013",30%,8/2/22,Fintech,Menlo Park,Robinhood,Public,"Around 300 people (9% of the company) were laid off in April. In August, Robinhood let go of around 23%, or 713, employees."
+Outreach,Unclear,5%,8/2/22,Sales Tech,Seattle,LinkedIn,Private,Less than 5% of company was impacted by layoffs.
+Oracle,Unclear,Unclear,8/1/22,"SaaS, enterprise software",Austin,The Information,Public,The Information reported thousands of people would be laid off
+Imperfect Foods,50,Unclear,8/1/22,"Grocery, e-commerce, delivery service",San Francisco,San Francisco Business Times,Private,The San Francisco Business Times reported about 50 people were laid off
+OnlyFans,Unclear,Unclear,8/1/22,"Social media, creator economy",London,Business Insider,Private,OnlyFans is based in the UK but has a sizeable workforce in the US
+2U,Unclear,20%,8/1/22,Edtech,"Hyattsville, MD",Inside Higher Ed,Public,
+Shelf Engine,43,Unclear,7/29/22,"Food Tech, Software, Grocery Tech",Seattle,GeekWire,Private,LinkedIn estimates company had around 150 employees before layoffs.
+Metromile,60,20%,7/29/22,"Insurtech, transportation",San Francisco,Crunchbase,Public,Crunchbase reported about 20% of employees were laid off following Lemonade's acquisition 
+Career Karma,60,Unclear,7/28/22,"Career planning, social network",San Francisco,TechCrunch,Private,"According to TechCrunch, sources said about a third of the staff was let go"
+Turntide,130,20%,7/28/22,"CleanTech, energy","Sunnyvale, CA",Business Insider,Private,Business Insider estimates around 130 people were laid off
+Change.org,Unclear,19%,7/28/22,CivicTech,San Francisco,Change.org,Private,
+Rivian,840,6%,7/28/22,"electric vehicle, transportation","Irvine, CA",CNN,Public,
+Vox Media,39,2%,7/27/22,"Digital media, journalism","Washington, DC",Axios,Private,Axios reported less than 2% of staff were laid off
+People.ai,Unclear,Unclear,7/26/22,"AI, Sales",San Francisco,LinkedIn,Private,
+Shopify,1000,10%,7/26/22,E-commerce,"Ottawa, Canada",WSJ,Public,
+Outbrain,38,3%,7/26/22,Digital Marketing,New York,CTech,Public,
+Pear Therapeutics,25,9%,7/25/22,"Software, Biotech",Boston,MassDevice,Public,
+Boosted Commerce,Unclear,5%,7/25/22,E-commerce,Los Angeles,Business Insider ,Private,
+Clarify Health,15,5%,7/22/22,Health Care,San Francisco,Axios,Private,
+Capsule,Unclear,Unclear,7/21/22,Health Care,New York,Crain's New York,Private,
+Rad Power Bikes,163,Unclear,7/21/22,Transporation,Seattle,GeekWire,Private,"First round of layoffs was in April, second round in July."
+InVision,Unclear,Unclear,7/21/22,"Visual collaboration, Apps",New York,LinkedIn,Private,
+Hydrow,70,35%,7/21/22,Fitness,Boston,Boston Globe,Private,
+Lunchbox,Unclear,33%,7/21/22,"Restaurant Tech, Food Tech",New York,Business Insider,Private,
+WHOOP,Unclear,15%,7/21/22,Fitness,Boston,Front Office Sports,Private,
+98point6,Unclear,10%,7/21/22,Health Care,Seattle,GeekWire,Private,
+RealSelf,11,5%,7/21/22,Beauty tech,Seattle,GeekWire,Private,
+Varo,75,Unclear,7/20/22,Fintech,San Francisco,Axios,Private,
+Arc,13,Unclear,7/20/22,HR Tech,Mountain View,LinkedIn,Private,
+Flyhomes,150,20%,7/20/22,"Real Estate, PropTech",Seattle,GeekWire,Private,An estimated 150 employees were laid off.
+The Mom Project,54,15%,7/20/22,Talent marketplace,Chicago,LinkedIn,Private,
+Olive,450,Unclear,7/19/22,Health Care,Columbus,Olive,Private,
+Invitae,1000,Unclear,7/18/22,"Health Care, Biotech",San Francisco,GenomeWeb,Public,
+Elemy,Unclear,Unclear,7/18/22,Health Care,San Francisco,Behavioral Health Business,Private,
+TikTok,Unclear,Unclear,7/18/22,Social Media,Los Angeles,Wired,Private,"TikTok is owned by China-based ByteDance, but the layoffs affected staff in the U.S."
+Lusha,30,10%,7/18/22,Sales tech,New York,CTech,Private,
+Gemini,68,7%,7/18/22,Crypto,New York,TechCrunch,Private,
+Vimeo,72,6%,7/18/22,Media/entertainment, New York,Business Insider ,Public,"Layoffs affected around 72 employees, based on an estimate of Vimeo's headcount."
+Aspire,23,Unclear,7/15/22,Marketing tech,San Francisco,Business Insider ,Private,
+Project44,63,5%,7/15/22,Logistics,Chicago,FreightWaves,Private,
+Alto Pharmacy,Unclear,Unclear,7/14/22,Health Care,San Francisco,LinkedIn,Private,
+OpenSea,Unclear,20%,7/14/22,"Crypto, NFT marketplace",New York,Devin Finzer,Private,
+Papa,Unclear,15%,7/14/22,Elder Care,Miami,LinkedIn,Private,
+ChowNow,100,Unclear,7/13/22,"Restaurant Tech, Food Tech","Playa Visa, California",TechCrunch,Private,
+100 Thieves,12,Unclear,7/13/22,"eSports, Media",Los Angeles,Dexerto,Private,More than a dozen employees were reportedly laid off.
+Spring,Unclear,Unclear,7/13/22,E-commerce,San Francisco,Business Insider,Private,
+Fabric,120,40%,7/13/22,"E-commerce, Logistics",New York,TechCrunch,Private,
+Tonal,262,35%,7/13/22,Fitness,San Francisco,CNBC,Private,
+Microsoft,Unclear,Unclear,7/12/22,Enterprise Software,Seattle,Crunchbase News reporting,Public,
+Adwerx,40,Unclear,7/12/22,Digital Marketing,"Durham, North Carolina",Inman,Private,
+Hubilo,45,Unclear,7/12/22,Virtual Events,San Francisco,Inc42,Private,
+Hopin,380,Unclear,7/11/22,Virtual Event,London,TechCrunch,Private,"Unclear how many U.S.-based employees were affected. First round of layoffs was in February, second round was in July."
+SundaySky,24,13%,7/11/22,Video Conferencing Software,New York,Globes,Private,"Layoffs affect employees in the U.S., Israel, and Japan."
+Forward,Unclear,5%,7/11/22,Health Care,San Francisco,Fierce Healthcare,Private,
+Nextbite,Unclear,Unclear,7/8/22,"Restaurant Tech, Food Tech",Denver,Business Insider ,Private,
+Butler Hospitality,1000,100%,7/8/22,Hospitality,New York,TechCrunch,Private,"Company ceased operations, per reports."
+NextRoll,Unclear,3%,7/8/22,Marketing Tech,San Francisco,Business Insider ,Private,
+Cedar,Unclear,24%,7/7/22,Health Care,New York,Business Insider ,Private,
+Emotive,30,18%,7/7/22,SMS Marketing,Los Angeles,dot.LA,Private,
+Next Insurance,150,17%,7/7/22,InsurTech,Palo Alto,CTech,Private,
+Argo AI,150,5%,7/7/22,Transportation,Pittsburgh,TechCrunch,Private,
+SQream Technologies,30,18%,7/6/22,Data Analytics,New York,CTech,Private,"SQream is based in New York, but most of the employees affected by layoffs are in Israel, accoring to CTech."
+Remote,100,9%,7/6/22,HR Tech,San Francisco,Publico,Private,
+Bizzabo,120,30%,7/5/22,Virtual Event,New York,CTech,Private,
+Outschool,31,18%,7/5/22,EdTech,San Francisco,TechCrunch,Private,
+Verbit,80,10%,7/5/22,Natural Language Processing,New York,CTech,Private,
+Celsius,150,25%,7/3/22,Crypto,"Hoboken, New Jersey",CTech,Private,
+LetsGetChecked,Unclear,Unclear,7/2/22,Health Care,New York,Business Post,Private,
+Teleport,Unclear,Unclear,7/1/22,Cloud Infrastructure,Oakland,Teleport,Private,
+WanderJaunt,85,100%,7/1/22,"PropTech, Real Estate",San Francisco,Short Term Rentalz,Private,Company shut down.
+Canoo,58,6%,7/1/22,Transportation,"Torrance, California",Business Insider ,Private,
+Stream,,10%-15%,6/30/22,Communications Infrastructure,Boulder,Pragmatic Engineer,Private,
+Enjoy,400,18%,6/30/22,"E-commerce, Delivery",Palo Alto,Bloomberg,Public,
+Abra,12,5%,6/30/22,Crypto,Mountain View,The Block,Private,
+Modsy,Unclear,Unclear,6/29/22,E-commerce,San Francisco,TechCrunch,Private,
+Degreed,Unclear,Unclear,6/29/22,EdTech,"Pleasanton, CA",LinkedIn,Private,
+Baton,16,25%,6/29/22,"Transporation, Logistics",San Francisco,Freight Waves,Private,
+HomeLight,Unclear,19%,6/29/22,"Proptech, Real Estate",San Francisco,The Real Deal,Private,
+Qumolo,80,19%,6/29/22,Data storage,Seattle,GeekWire,Private,
+Substack,13,14%,6/29/22,"Media, Content Creators",San Francisco,New York Times,Private,
+AppLovin,300,12%,6/29/22,"Mobile Apps, Developer Tools",Palo Alto,Silicon Valley Business Journal,Public,
+Niantic,85,8%,6/29/22,"Video Games, AR",San Francisco,Bloomberg,Private,
+Unity,200,4%,6/29/22,Video Games,San Francisco,WSJ,Public,
+Sundae,Unclear,15%,6/28/22,"PropTech, Real Estate",San Francisco,Real Trends,Private,
+Bright Machines,30,8%,6/28/22,Robotics,San Francisco,CTech,Private,
+StockX,120,8%,6/28/22,E-commerce,Detroit,The Information,Private,
+Cue,170,Unclear,6/27/22,Health Care,San Diego,GenomeWeb,Public,
+SafeGraph,,25%,6/27/22,"Artificial Intelligence, Machine Learning",San Francisco,SafeGraph,Private,
+Amount,Unclear,18%,6/27/22,FinTech,Chicago,TechCrunch,Private,
+Postscript,43,19%,6/26/22,"Marketing Tech, SMS Marketing",San Francisco,Alex Beller,Private,
+Ethos Life,40,12%,6/24/22,InsurTech,San Francisco,Coverager,Private,
+Aura,70,9%,6/24/22,Cybersecurity,Boston,Bank Info Security,Private,
+Ro,Unclear,18%,6/23/22,Health Care,New York,TechCrunch,Private,
+Esper,Unclear,12%,6/23/22,DevOps,Seattle,GeekWire,Private,
+Community,40,Unclear,6/22/22,Social Media,Los Angeles,Business Insider ,Private,
+MasterClass,156,20%,6/22/22,Edtech,San Francisco,MasterClass CEO David Rogier,Private,"20% of the company was laid off, meaning an estimated 156 employees, per LinkedIn data."
+SummerBio,101,100%,6/20/22,"Health Care, Diagnostics",Menlo Park,Bay Area Inno,Private,Company shut down.
+Buzzer,Unclear,20%,6/20/22,"Media, Sports",New York,Sportico,Private,
+Finite State,16,Unclear,6/17/22,Cybersecurity,Columbus,ColumbusInno,Private,
+Nayya,16,15%,6/17/22,"Employee Benefits, HR Tech",New York,Crunchbase News reporting,Private,"16 people were laid off, according to the company."
+Socure,69,13%,6/17/22,Identity verification,Reno,Forbes,Private,
+Zumper,45,15%,6/16/22,PropTech,San Francisco,The Real Deal,Private,"Layoffs affected 15 percent of Zumper's approximately 300-person workforce, per The Real Deal."
+JOKR,50,5%,6/16/22,"Food delivery, ecommerce",New York,TechCrunch,Private,
+Tonkean,23,23%,6/15/22,Software,San Francisco,The Marker,Private,"Layoffs affected 12 people in the United States, and 11 people in Israel, per The Marker."
+Compass,450,10%,6/14/22,PropTech,New York,Bloomberg,Public,
+TIFIN,21,10%,6/14/22,FinTech,Boulder,Axios,Private,
+BlockFi,170,20%,6/13/22,Crypto,Jersey City,BlockFi,Private,"BlockFi's last known headcount was around 850, so the cuts represent around 170 positions."
+DesktopMetal,Unclear,12%,6/13/22,3D Printing,"Burlington, Massachusetts",MarketWatch,Public,
+Keepe,Unclear,Unclear,6/10/22,PropTech,Seattle,GeekWire,Private,
+Liongard,Unclear,Unclear,6/10/22,IT Infrastructure,Houston,CRN,Private,
+Sonder,Unclear,21%,6/10/22,Hospitality,San Francisco,MarketWatch,Public,
+Stitch Fix,330,15%,6/10/22,"Ecommerce, Fashion",San Francisco,CNBC,Public,
+Albert,20,8%,6/10/22,FinTech,Los Angeles,dot.LA,Private,"At least 20 people were laid off from the 250-employee company, per dot.LA"
+Convoy,Unclear,Unclear,6/9/22,Logistics,Seattle,GeekWire,Private,"The company previously laid off around 90 people, or 7% of the company, in June."
+Hologram,80,33%,6/9/22,IoT,Chicago,Crain's Chicago Business,Private,
+OneTrust,950,25%,6/9/22,Cybersecurity,Atlanta,OneTrust,Private,
+Jellysmack,Unclear,8%,6/9/22,Media/Entertainment,New York,Business Insider,Private,
+Deep Instinct,Unclear,Unclear,6/8/22,Cybersecurity,New York,Crunchbase News,Private,
+TruePill,Unclear,15%,6/8/22,Health Care,"Hayward, California",TruePill,Private,
+Progrexion,100,Unclear,6/7/22,FinTech,Salt Lake City,Crunchbase News,Private,At least 100 employees were laid off.
+ID.Me,Unclear,Unclear,6/7/22,Identity verification,"McLean, Virginia",Business Insider,Private,
+Bird,138,23%,6/7/22,Transporation,Santa Monica,TechCrunch,Public,
+Sendoso,100,14%,6/6/22,Marketing Automation,San Francisco,Business Insider,Private,
+Dutchie,56,8%,6/6/22,Cannabis,"Bend, Oregon",GeekWire,Private,
+Clubhouse,Unclear,Unclear,6/3/22,"Social Media, Audio",San Francisco,Bloomberg,Private,
+Superhuman,23,22%,6/3/22,Email Software,San Francisco,CEO Rahul Vohra,Private,
+Stord,59,8%,6/3/22,Logistics,Atlanta,Business Insider,Private,
+Esme Learning,40,Unclear,6/2/22,EdTech,"Newton, Massachusetts","Esme Learning, Crunchbase News reporting",Private,
+Eaze,25,Unclear,6/2/22,Cannabis,San Francisco,Business Insider ,Private,
+Policygenius,170,25%,6/2/22,InsurTech,New York,TechCrunch,Private,
+IRL,25,25%,6/2/22,Social Media,San Francisco,TechCrunch,Private,
+Sourcepoint,7,13%,6/2/22,"Privacy Tech, Marketing Tech",New York,Crunchbase News reporting,Private,Company did not respond to a request to confirm details of layoffs.
+Gemini,Unclear,10%,6/2/22,"Fintech, Crypto",New York,Bloomberg,Private,
+Carbon Health,250,8%,6/2/22,Health Care,San Francisco,Carbon Health,Private,
+Cybereason,100,Unclear,6/1/22,Cybersecurity,Boston,CTech,Private,"Affected employees are in U.S., Israel, and Europe."
+Side ,Unclear,10%,6/1/22,PropTech,San Francisco,Inman,Private,
+Replicated,50,Unclear,5/31/22,Enterprise Software,Los Angeles,Replicated,Private,"Around one third of staff were impacted, per LinkedIn estimates."
+Tomo,44,33%,5/31/22,"FinTech, PropTech",Stamford,Business Insider,Private,
+Playtika,250,6%,5/31/22,Gaming,Tel Aviv,Globes,Public,"Closing studios in London, Montreal, and Los Angeles."
+Coterie Insurance,30,20%,5/27/22,InsurTech,Cincinnati,CincyInno,Private,
+Terminus,Unclear,15%,5/27/22,Marketing,Atlanta,LinkedIn,Private,
+Lacework,200,20%,5/26/22,Cybersecurity,San Jose,The Information,Private,
+Bolt,250,33%,5/25/22,FinTech,San Francisco,Fortune,Private,
+ClickUp,Unclear,7%,5/24/22,Productivity Tools,San Diego,Protocol,Private,
+PayPal,83,0.27%,5/23/22,Fintech,San Jose,The Information,Public,
+Colossus,97,Unclear,5/20/22,"Solar, Software",Massachusetts,Axios,Private,
+Outside Inc,Unclear,15%,5/20/22,Media/entertainment,Boulder,Denver Business Journal,Private,
+Skillz,70,10%,5/20/22,Esports/Video Games,San Francisco,TechCrunch,Public,
+Talkdesk,Unclear,Unclear,5/19/22,Customer service,San Francisco,Confirmed by CB News from source,Private,Sources say hundreds of employees have been laid off
+Picsart,90,8%,5/17/22,Media/entertainment,Miami,The Information,Private,
+Zulily,99,10%,5/16/22,E-commerce,Seattle,GeekWire,Public,Less than 10% and fewer than 100 employees were laid off.
+Subspace,Unclear,100%,5/13/22,Media/entertainment,Los Angeles,LinkedIn,Private,Company shut down.
+Latch,30,6%,5/13/22,"Smart Home, Security",New York ,TechCrunch,Public,
+Thirty Madison,24,3%,5/13/22,Health Care,New York,Axios,Private,"Per Axios, 22 of the employees laid off were from Thirty Madison, and two were from new parent company Nurx."
+Zwift,Unclear,Unclear,5/12/22,Fitness,Long Beach,DC Rainmaker,Private,
+Tripwire,Unclear,Unclear,5/12/22,Security,Portland,OregonLive,Private,
+Section4,32,25%,5/12/22,Edtech,New York,TechCrunch,Private,
+Doma ,310,15%,5/10/22,"Fintech, InsurTech",San Francisco,HousingWire,Public,
+Mural,Unclear,Unclear,5/6/22,Product Design,San Francisco,Protocol,Private,
+Reef,750,5%,5/6/22,"Food delivery, ecommerce",Miami,The Information,Private,
+On Deck,72,25%,5/5/22,Business development,San Francisco,TechCrunch,Private,
+Cameo,167,Unclear,5/4/22,Media/entertainment,Chicago,The Information,Private,
+MainStreet,50,33%,5/4/22,Fintech,San Jose,Insider,Private,Around 50 people were laid off.
+Ideoclick,40,33%,5/4/22,E-commerce,Seattle,Puget Sound Business Journal,Private,
+Vise,25,25%,5/4/22,Fintech,New York,CityWire,Private,
+Thrasio,Unclear,Unclear,5/2/22,E-commerce,"Walpole, MA",Insider,Private,
+Clyde,19,Unclear,4/25/22,E-commerce,New York,External Spreadsheet,Private,At least 19 people were laid off
+Better,"5,000",50%,4/19/22,Fintech,New York,TechCrunch,Private,"Better.com laid off around 5,000 people in three rounds of layoffs over the course of five months. It had around 10,000 employees in December and has fewer than 5,000 now, per TechCrunch."
+Blend,200,10%,4/19/22,Fintech,San Francisco,HousingWire,Public,
+Automox,Unclear,11%,4/18/22,Security,Boulder,LinkedIn,Private,
+Halcyon Health,Unclear,Unclear,4/15/22,Health Care,New York,Axios,Private,Company shut down
+Ahead,Unclear,Unclear,4/14/22,Health Care,Santa Clara,Bloomberg,Private,Company shut down
+Food52,20,6%,4/8/22,"Media, E-commerce",New York,Digiday,Private,
+Workrise,Unclear,Unclear,4/5/22,Marketplace,Austin,TechCrunch,Private,
+Fast,400,100%,4/5/22,Fintech,San Francisco,The Information,Private,"Company shut down, and at least 400 people were laid off, per estimates of Fast's headcount"
+Rasa,59,40%,4/4/22,Artificial Intelligence,San Francisco ,Business Insider ,Private,"Rasa was founded in Berlin but moved its headquarters to San Francisco in 2019. Layoffs affected employees in the U.S., Germany, and U.K."
+Grove Collaborative,Unclear,17%,3/29/22,E-commerce,San Francisco,Retail Dive,Private,
+Curology,150,20%,3/16/22,E-commerce,San Francisco,SF Business Times,Private,
+Knock ,Unclear,46%,3/15/22,Proptech,New York,The Real Deal,Private,
+Sezzle,Unclear,20%,3/10/22,Fintech,Minneapolis,Reuters,Public,20% of staff in North America
+Hyperscience,100,25%,3/3/22,AI,New York,The Information,Private,
+Virgin Hyperloop,111,50%,2/22/22,Transporation,Los Angeles,Fortune,Private,
+Rhino,57,20%,2/3/22,"PropTech, InsurTech",New York,The Real Deal,Private,
+Beachbody,70,10%,1/27/22,Fitness,Santa Monica,Club Industry,Public,
