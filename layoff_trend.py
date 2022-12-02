@@ -28,7 +28,7 @@ def process_layoff_data(df):
 
 
 def plot_layoffs_by_date(df):
-    # calculate rolling average of layoffs with a window of 3 months
+    # calculate rolling average of layoffs with a window of 4 months
     w = 4
     df["Rolling_Avg"] = df["Num_layoffs"].rolling(window=w).mean()
 
