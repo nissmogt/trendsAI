@@ -1,6 +1,4 @@
 import pandas as pd
-import huggingface_hub
-import numpy as np
 import matplotlib.pyplot as plt
 
 
@@ -65,6 +63,5 @@ x = [df_processed["Num_layoffs"].max(), df_processed["Num_layoffs"].min(), df_pr
 # print argmax and argmin of Num_layoffs
 print("Max layoffs: {}, Min layoffs: {}".format(df_processed["Num_layoffs"].argmax(),df_processed["Num_layoffs"].argmin()))
 
-
 print("Max: {}\n Min: {}\n Mean: {}\n Median: {}\n Std: {}".format(*x))
-# plot_layoffs_by_date(df_processed)
+plot_layoffs_by_date(df_processed)
